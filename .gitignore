@@ -1,0 +1,21 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local databases
+data.db
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
